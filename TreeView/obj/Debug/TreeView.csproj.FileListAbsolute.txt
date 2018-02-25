@@ -1,0 +1,34 @@
+C:\Users\Myshkin\Desktop\TreeView\TreeView\TreeView\obj\Debug\TreeView.csprojResolveAssemblyReference.cache
+C:\Users\Myshkin\Desktop\TreeView\TreeView\TreeView\obj\Debug\MainWindow.g.cs
+C:\Users\Myshkin\Desktop\TreeView\TreeView\TreeView\obj\Debug\App.g.cs
+C:\Users\Myshkin\Desktop\TreeView\TreeView\TreeView\obj\Debug\TreeView_MarkupCompile.cache
+C:\Users\Myshkin\Desktop\TreeView\TreeView\TreeView\obj\Debug\TreeView_MarkupCompile.lref
+C:\Users\Myshkin\Desktop\TreeView\TreeView\TreeView\bin\Debug\TreeView.exe.config
+C:\Users\Myshkin\Desktop\TreeView\TreeView\TreeView\bin\Debug\TreeView.exe
+C:\Users\Myshkin\Desktop\TreeView\TreeView\TreeView\bin\Debug\TreeView.pdb
+C:\Users\Myshkin\Desktop\TreeView\TreeView\TreeView\obj\Debug\App.baml
+C:\Users\Myshkin\Desktop\TreeView\TreeView\TreeView\obj\Debug\MainWindow.baml
+C:\Users\Myshkin\Desktop\TreeView\TreeView\TreeView\obj\Debug\TreeView.g.resources
+C:\Users\Myshkin\Desktop\TreeView\TreeView\TreeView\obj\Debug\TreeView.Properties.Resources.resources
+C:\Users\Myshkin\Desktop\TreeView\TreeView\TreeView\obj\Debug\TreeView.csproj.GenerateResource.Cache
+C:\Users\Myshkin\Desktop\TreeView\TreeView\TreeView\obj\Debug\TreeView.csproj.CoreCompileInputs.cache
+C:\Users\Myshkin\Desktop\TreeView\TreeView\TreeView\obj\Debug\TreeView.exe
+C:\Users\Myshkin\Desktop\TreeView\TreeView\TreeView\obj\Debug\TreeView.pdb
+C:\Users\Myshkin\Desktop\TreeView\TreeView\TreeView\obj\Debug\ElegantIcons.baml
+D:\My DevData\TreeView\TreeView\TreeView\bin\Debug\TreeView.exe.config
+D:\My DevData\TreeView\TreeView\TreeView\bin\Debug\TreeView.exe
+D:\My DevData\TreeView\TreeView\TreeView\bin\Debug\TreeView.pdb
+D:\My DevData\TreeView\TreeView\TreeView\obj\Debug\TreeView.csprojResolveAssemblyReference.cache
+D:\My DevData\TreeView\TreeView\TreeView\obj\Debug\ElegantIcons.baml
+D:\My DevData\TreeView\TreeView\TreeView\obj\Debug\App.baml
+D:\My DevData\TreeView\TreeView\TreeView\obj\Debug\MainWindow.g.cs
+D:\My DevData\TreeView\TreeView\TreeView\obj\Debug\App.g.cs
+D:\My DevData\TreeView\TreeView\TreeView\obj\Debug\TreeView_MarkupCompile.cache
+D:\My DevData\TreeView\TreeView\TreeView\obj\Debug\TreeView_MarkupCompile.lref
+D:\My DevData\TreeView\TreeView\TreeView\obj\Debug\MainWindow.baml
+D:\My DevData\TreeView\TreeView\TreeView\obj\Debug\TreeView.g.resources
+D:\My DevData\TreeView\TreeView\TreeView\obj\Debug\TreeView.Properties.Resources.resources
+D:\My DevData\TreeView\TreeView\TreeView\obj\Debug\TreeView.csproj.GenerateResource.Cache
+D:\My DevData\TreeView\TreeView\TreeView\obj\Debug\TreeView.csproj.CoreCompileInputs.cache
+D:\My DevData\TreeView\TreeView\TreeView\obj\Debug\TreeView.exe
+D:\My DevData\TreeView\TreeView\TreeView\obj\Debug\TreeView.pdb
